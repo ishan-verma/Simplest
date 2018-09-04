@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Simplest</string>
     <string name="textMessage">Hello from Jason</string>
+    <string name="buttonText">Button</string>
 </resources>
